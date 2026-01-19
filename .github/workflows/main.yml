@@ -1,4 +1,4 @@
-name: Karbala-Stream
+name: Karbala-Live
 on:
   workflow_dispatch:
 jobs:
